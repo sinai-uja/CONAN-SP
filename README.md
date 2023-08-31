@@ -4,7 +4,7 @@ CONAN-SP is a a new dataset for Spanish counter-narrative. It include a hate-spe
 
 # How is constructed?
 
-(/CONAN-SP.jpg)
+![CONAN-SP Scheme](https://github.com/sinai-uja/CONAN-SP/blob/main/CONAN-SP.jpg)
 
 CONAN-SP is based on CONAN-KN ([Yi-Ling Chung et al. , 2021](https://aclanthology.org/2021.findings-acl.79.pdf)). CONAN-KN consists of 195 HS-CN pairs covering multiple hate targets (islamophobia, misogyny, antisemitism, racism, and homophobia), provided along with the relevant knowledge automatically retrieved. Since CONAN-KN is in English, we use DeepL, an automatic translator tool to translate English pairs to Spanish.
 
